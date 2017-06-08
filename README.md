@@ -1,4 +1,4 @@
-# DDoS and NS2 Simulation: Intro to netwrok simulation
+# DDoS and NS2 Simulation: Intro to Netwrok Simulation
 
 It consists of basic ns2 programs along with a practical DDoS attack simulation example.
 
@@ -19,7 +19,7 @@ nsnam.com:
 
 "http://www.nsnam.com/2014/11/ns2-installation-in-ubuntu-1404.html"
 
-For Tracegraph installation (3rd party)
+For Tracegraph installation (3rd party):
 getch.wordpress.com: 
 
 "https://getch.wordpress.com/2011/04/20/installing-tracegraph2-02-application-in-ubuntu/"
