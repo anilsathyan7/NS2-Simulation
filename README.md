@@ -15,10 +15,12 @@ Just a 'Computer System': Unix,Windows or MAC ...
 Refer:-
 
 For ns2 installation:
-"nsnam.com: http://www.nsnam.com/2014/11/ns2-installation-in-ubuntu-1404.html"
+nsnam.com: 
+"http://www.nsnam.com/2014/11/ns2-installation-in-ubuntu-1404.html"
 
 For Tracegraph installation (3rd party)
-"getch.wordpress.com: https://getch.wordpress.com/2011/04/20/installing-tracegraph2-02-application-in-ubuntu/"
+getch.wordpress.com: 
+"https://getch.wordpress.com/2011/04/20/installing-tracegraph2-02-application-in-ubuntu/"
 
 You can install it in windows using cygwin or even inside a virtual linux OS (like using Vmware/VirtualBox).
 
@@ -30,9 +32,11 @@ Refer "http://www.nsnam.com/2011/11/installation-of-network-simulator-ns235.html
 In terminal:-
 
 ns filename.tcl   -- for running simulation
+
 ./tracegraph /path/to/tracefile  --- like say:out.tr for trace analysis
 
 Another extension called xgraph (comes in ns2 package, by default) can be used to make graphs of simulation results
+
 Refer : "http://cs-study.blogspot.in/2013/05/xgraph-in-ns2.html"
 
 
@@ -46,6 +50,7 @@ Anil Sathyan
 ## License
 
 Free to use, share or modify!! ... Copyleft!!
+
 chmod -R 777 /                 ...  ???????
 
 ## Acknowledgments
