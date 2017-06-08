@@ -1,6 +1,6 @@
 # DDoS and NS2 Simulation: Intro to netwrok simulation
 
-It consosts of basic ns2 programs along with a practical DDoS attack simulation program.
+It consists of basic ns2 programs along with a practical DDoS attack simulation program.
 
 ## Getting Started
 
